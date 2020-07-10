@@ -1,0 +1,2 @@
+C:\Users\danie\Documents\GitHub\paralellprog\consolevs\MPIHelloWorld\Debug\MPIHelloWorld.exe
+C:\Users\danie\Documents\GitHub\paralellprog\consolevs\MPIHelloWorld\Debug\MPIHelloWorld.pdb

@@ -1,0 +1,2 @@
+﻿  MPIHelloWorld.cpp
+C:\Users\danie\Documents\GitHub\paralellprog\consolevs\MPIHelloWorld\MPIHelloWorld.cpp(4,10): fatal error C1083: Não é possível abrir arquivo incluir: 'mpi.h': No such file or directory
